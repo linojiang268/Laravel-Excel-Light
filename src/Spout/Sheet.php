@@ -9,7 +9,7 @@ use Ouarea\ExcelM\Row as RowInterface;
 use RuntimeException;
 use Traversable;
 
-class Sheet implements \Maatwebsite\ExcelLight\Sheet
+class Sheet implements \Ouarea\ExcelM\Sheet
 {
     /**
      * @var SheetInterface

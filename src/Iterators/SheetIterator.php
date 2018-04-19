@@ -2,6 +2,7 @@
 
 namespace Ouarea\ExcelM\Iterators;
 
+use Ouarea\ExcelLight\Iterators\CallbackIterator;
 use Ouarea\ExcelM\Sheet;
 
 class SheetIterator extends CallbackIterator
