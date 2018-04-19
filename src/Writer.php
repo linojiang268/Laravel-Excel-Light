@@ -1,6 +1,6 @@
 <?php
 
-namespace Maatwebsite\ExcelLight;
+namespace Ouarea\ExcelM;
 
 interface Writer
 {

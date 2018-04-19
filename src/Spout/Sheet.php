@@ -1,11 +1,11 @@
 <?php
 
-namespace Maatwebsite\ExcelLight\Spout;
+namespace Ouarea\ExcelM\Spout;
 
 use Box\Spout\Reader\SheetInterface;
 use Iterator;
-use Maatwebsite\ExcelLight\Iterators\RowIterator;
-use Maatwebsite\ExcelLight\Row as RowInterface;
+use Ouarea\ExcelM\Iterators\RowIterator;
+use Ouarea\ExcelM\Row as RowInterface;
 use RuntimeException;
 use Traversable;
 

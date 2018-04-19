@@ -1,10 +1,10 @@
 <?php
 
-namespace Maatwebsite\ExcelLight;
+namespace Ouarea\ExcelM;
 
 use IteratorAggregate;
-use Maatwebsite\ExcelLight\Iterators\SheetIterator;
-use Maatwebsite\ExcelLight\Spout\Sheet;
+use Ouarea\ExcelM\Iterators\SheetIterator;
+use Ouarea\ExcelM\Spout\Sheet;
 
 interface Reader extends IteratorAggregate
 {

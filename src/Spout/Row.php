@@ -1,6 +1,6 @@
 <?php
 
-namespace Maatwebsite\ExcelLight\Spout;
+namespace Ouarea\ExcelM\Spout;
 
 use Illuminate\Support\Collection;
 

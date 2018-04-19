@@ -1,11 +1,11 @@
 <?php
 
-namespace Maatwebsite\ExcelLight\Spout;
+namespace Ouarea\ExcelM\Spout;
 
 use Box\Spout\Common\Type;
 use Box\Spout\Writer\WriterFactory;
 use Box\Spout\Writer\WriterInterface as SpoutWriterInterface;
-use Maatwebsite\ExcelLight\Writer as WriterInterface;
+use Ouarea\ExcelM\Writer as WriterInterface;
 
 class Writer implements WriterInterface
 {
