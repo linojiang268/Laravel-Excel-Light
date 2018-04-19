@@ -1,8 +1,8 @@
 <?php
 
-namespace Maatwebsite\ExcelLight\Iterators;
+namespace Ouarea\ExcelM\Iterators;
 
-use Maatwebsite\ExcelLight\Sheet;
+use Ouarea\ExcelM\Sheet;
 
 class SheetIterator extends CallbackIterator
 {

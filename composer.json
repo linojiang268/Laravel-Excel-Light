@@ -1,5 +1,6 @@
 {
-  "name": "maatwebsite/laravel-excel-light",
+  "name": "ouarea/excel-m",
+  "version": "v1.0.1",
   "description": "A faster and more eloquent way of importing and exporting Excel and CSV in Laravel with the speed of Spout",
   "license": "MIT",
   "keywords": [
@@ -32,7 +33,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Maatwebsite\\ExcelLight\\": "src/"
+      "Ouarea\\ExcelM\\": "src/"
     }
   },
   "autoload-dev": {

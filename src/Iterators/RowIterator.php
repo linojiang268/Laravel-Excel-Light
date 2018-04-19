@@ -1,8 +1,8 @@
 <?php
 
-namespace Maatwebsite\ExcelLight\Iterators;
+namespace Ouarea\ExcelM\Iterators;
 
-use Maatwebsite\ExcelLight\Row;
+use Ouarea\ExcelM\Row;
 
 class RowIterator extends CallbackIterator
 {

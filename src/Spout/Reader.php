@@ -1,13 +1,13 @@
 <?php
 
-namespace Maatwebsite\ExcelLight\Spout;
+namespace Ouarea\ExcelM\Spout;
 
 use Box\Spout\Common\Type;
 use Box\Spout\Reader\ReaderFactory;
 use Box\Spout\Reader\ReaderInterface as SpoutReaderInterface;
 use Box\Spout\Reader\SheetInterface;
-use Maatwebsite\ExcelLight\Iterators\SheetIterator;
-use Maatwebsite\ExcelLight\Reader as ReaderInterface;
+use Ouarea\ExcelM\Iterators\SheetIterator;
+use Ouarea\ExcelM\Reader as ReaderInterface;
 use Traversable;
 
 class Reader implements ReaderInterface

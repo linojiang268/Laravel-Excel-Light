@@ -1,12 +1,12 @@
 <?php
 
-namespace Maatwebsite\ExcelLight;
+namespace Ouarea\ExcelM;
 
 use Illuminate\Support\ServiceProvider;
-use Maatwebsite\ExcelLight\Spout\Reader as SpoutReader;
-use Maatwebsite\ExcelLight\Spout\Writer as SpoutWriter;
+use Ouarea\ExcelM\Spout\Reader as SpoutReader;
+use Ouarea\ExcelM\Spout\Writer as SpoutWriter;
 
-class LaravelExcelServiceProvider extends ServiceProvider
+class LaravelExcelMServiceProvider extends ServiceProvider
 {
     /**
      * Register services

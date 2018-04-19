@@ -1,9 +1,9 @@
 <?php
 
-namespace Maatwebsite\ExcelLight;
+namespace Ouarea\ExcelM;
 
 use IteratorAggregate;
-use Maatwebsite\ExcelLight\Iterators\RowIterator;
+use Ouarea\ExcelM\Iterators\RowIterator;
 
 interface Sheet extends IteratorAggregate
 {
