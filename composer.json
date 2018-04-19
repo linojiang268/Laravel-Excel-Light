@@ -1,6 +1,6 @@
 {
   "name": "ouarea/excel-m",
-  "version": "v1.0.1",
+  "version": "v1.0.2",
   "description": "A faster and more eloquent way of importing and exporting Excel and CSV in Laravel with the speed of Spout",
   "license": "MIT",
   "keywords": [
