@@ -1,6 +1,6 @@
 <?php
 
-namespace Ouarea\ExcelLight\Iterators;
+namespace Ouarea\ExcelM\Iterators;
 
 use Illuminate\Support\Collection;
 use Iterator;
