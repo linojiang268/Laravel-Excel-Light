@@ -85,4 +85,9 @@ class Writer implements WriterInterface
 
         $this->writer->close();
     }
+
+    public function getWriter()
+    {
+        return $this->writer;
+    }
 }
